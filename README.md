@@ -1,4 +1,4 @@
-# athena-queries
+# pycharm-athena-queries
 
 Instructions for configuring PyCharm Professional's Database tool to query AWS Athena
 
